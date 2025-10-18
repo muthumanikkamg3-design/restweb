@@ -266,6 +266,7 @@ menu.html
 
 
 ## OUTPUT:
+![rest2](https://github.com/user-attachments/assets/3c3076cf-1402-4138-8bf9-e69ec21b51dc)
 
 
 ## RESULT:
