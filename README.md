@@ -267,6 +267,9 @@ menu.html
 
 ## OUTPUT:
 ![rest2](https://github.com/user-attachments/assets/3c3076cf-1402-4138-8bf9-e69ec21b51dc)
+![rest1](https://github.com/user-attachments/assets/28fbfed1-7440-4f9c-9a20-f0e67d8a0f3f)
+![rest3](https://github.com/user-attachments/assets/5144eea5-20ad-4eec-b354-70a48d830425)
+![rest4](https://github.com/user-attachments/assets/2dea8ad0-f544-4f2b-9ff0-a8215c4ff0a2)
 
 
 ## RESULT:
